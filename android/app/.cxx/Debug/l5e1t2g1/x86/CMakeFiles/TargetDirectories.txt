@@ -1,0 +1,2 @@
+D:/Mobile code/smart_garden/android/app/.cxx/Debug/l5e1t2g1/x86/CMakeFiles/edit_cache.dir
+D:/Mobile code/smart_garden/android/app/.cxx/Debug/l5e1t2g1/x86/CMakeFiles/rebuild_cache.dir
